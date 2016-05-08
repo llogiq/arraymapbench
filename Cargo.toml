@@ -2,6 +2,7 @@
 name = "arraymapbench"
 version = "0.1.0"
 authors = ["Andre Bogus <bogusandre@gmail.com>"]
+repository = "https://github.com/llogiq/arraymapbench"
 
 [dependencies]
 arraymap = {path = "/home/andre/projects/arraymap"}
